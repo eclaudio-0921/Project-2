@@ -54,8 +54,8 @@ section {
 }
 
 @font-face {
-  font-family: "MondayFeelings";
-  src: url(css/fonts/mondayfeelings.ttf) format(truetype);
+  font-family: "Times New Roman";
+  src: url(css/fonts/timesnewroman.ttf) format(truetype);
 }
 
 .recipe {
