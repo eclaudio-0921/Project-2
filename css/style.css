@@ -2,7 +2,7 @@
   Red: #850b1f
   Wheat: #F5DEB3
   Sienna: #A0522D
-  LemonChiffon: #FFFACD
+  Olive: #808000
   khaki: #F0E68C
 */
 
@@ -24,7 +24,7 @@ header {
 }
 
 a:link, a:visited {
-  color: #FFFACD;
+  color: #808000;
 }
 
 a:hover {
