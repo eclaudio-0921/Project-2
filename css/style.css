@@ -1,13 +1,6 @@
-/* COLORS
-  Red: #850b1f
-  Wheat: #F5DEB3
-  Sienna: #A0522D
-  Olive: #808000
-  khaki: #F0E68C
-*/
-
-html {
+body {
   background-color: #A0522D;
+  font-family: Times;
 }
 
 header {
@@ -42,7 +35,7 @@ ul, ol {
 
 section {
   padding: 2%;
-  max-width: 800px;
+  max-width: 600px;
   margin: 2% auto;
   background-color: #F5DEB3;
   border-radius: 5px;
@@ -53,13 +46,10 @@ section {
   font-weight: bold;
 }
 
-@font-face {
-  font-family: "MondayFeelings";
-  src: url(css/fonts/mondayfeelings.ttf) format(truetype);
 }
 
 .recipe {
-  font-family: "MondayFeelings";
+  font-family: "Times New Roman";
 }
 
 footer {
