@@ -17,7 +17,7 @@ header {
 }
 
 a:link, a:visited {
-  color: #808000;
+  color: #FFF8DC;
 }
 
 a:hover {
@@ -37,7 +37,7 @@ section {
   padding: 2%;
   max-width: 800px;
   margin: 2% auto;
-  background-color: #F5DEB3;
+  background-color: #E0FFFF;
   border-radius: 5px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
@@ -56,7 +56,7 @@ footer {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  background-color:  #F0E68C;
+  background-color:  #6495ED;
   width: 25%;
   padding: 1%;
   text-align: center;
