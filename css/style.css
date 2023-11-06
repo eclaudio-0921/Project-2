@@ -18,6 +18,7 @@ header {
 
 a:link, a:visited {
   color: #FFF8DC;
+  text-decoration: none;
 }
 
 a:hover {
