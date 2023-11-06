@@ -17,7 +17,7 @@ header {
 }
 
 a:link, a:visited {
-  background-color: white;
+  background-color: #6495ED;
   color: black;
   border: 2px blue;
   padding: 10px 20px;
