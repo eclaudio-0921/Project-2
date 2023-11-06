@@ -35,6 +35,9 @@ body {
   font-family: Georgia;
   margin-bottom: 2%;
 }
+ul {
+  list-style-type: none;
+}
 
 ul, li {
   text-align: center;
