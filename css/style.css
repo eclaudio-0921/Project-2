@@ -27,9 +27,6 @@ a:link, a:visited {
   display: inline-block;
 }
 
- display: inline-block;
-}
-
 a:hover {
   color: #850b1f;
 }
@@ -90,4 +87,3 @@ img {
 .center {
   text-align: center;
 }
-
