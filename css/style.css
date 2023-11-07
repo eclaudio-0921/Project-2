@@ -141,3 +141,48 @@ img {
 .center {
   text-align: center;
 }
+
+/* fixed*/
+#wrapper {
+  width: 1890px;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1 px solid black;
+  padding: 0px;
+  margin: 0 auto;
+}
+
+#extras {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 200px;
+  background: #00b5d6;
+}
+
+#main {
+margin-left: 225px;
+background-color: #00b5d6;
+}
+/* Fluid layout */
+
+#main2 {
+  float:left;
+  width: 50%;
+  margin: 0 5%;
+  background-color: #00b5d6;
+}
+
+#extras2 {
+  float: left;
+  width: 35%;
+  margin: 0 5% 0 0;
+  background-color: #00b5d6;
+}
+
+#footer2 {
+  clear:left;
+  background-color: #00b5d6;
+}
+	
