@@ -15,7 +15,7 @@ header {
   justify-content: space-evenly;
   text-decoration: none;
   font-family: ¨Times New Roman¨;
-  float: center;
+  float: none;
 }
 
 a:link, a:visited {
@@ -62,9 +62,7 @@ section {
 
 .subheading {
   font-weight: bold;
-  float: Center;
-}
-
+  float: none;
 }
 
 .recipe {
