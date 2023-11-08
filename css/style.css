@@ -40,7 +40,7 @@ ul, li {
   text-align: left;
   font-family: ¨Times New Roman¨;
   text-decoration: none;
-  float: center;
+  float: none;
  }
 
 li{
@@ -84,7 +84,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  float: center;
+  float: none;
 }
 
 .center {
